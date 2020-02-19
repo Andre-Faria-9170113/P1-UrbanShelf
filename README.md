@@ -21,7 +21,7 @@ Frontend portion of a street bookstore management platform. This Project was dev
 
 * **André Faria** - [Andre-Faria-9170113](https://github.com/Andre-Faria-9170113)
 
-* **Miguel Melo** - [ImInYourPie](https://github.com/ImInYourPie)
+* **Miguel Melo** - [ImInYourPie](https://github.com/ImInYourPie) - [his (and the original) version of this repo](https://github.com/ImInYourPie/urban-shelf)
 
 
 ## License
